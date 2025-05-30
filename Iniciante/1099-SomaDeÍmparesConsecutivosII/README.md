@@ -11,7 +11,7 @@ A primeira linha de entrada é um inteiro ``N`` que é a quantidade de casos de 
 Imprima a soma de todos valores ímpares entre ``X`` e ``Y``.
 
 | Exemplos de Entrada | Exemplos de Saída |
-|---------------------|-------------------|
+|:-------------------:|:-----------------:|
 |          7          |         0         |
 |         4 5         |        11         |
 |        13 10        |         5         |
