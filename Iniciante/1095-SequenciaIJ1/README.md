@@ -11,7 +11,7 @@ Não há nenhuma entrada neste problema.
 Imprima a sequencia conforme exemplo abaixo
 
 | Exemplos de Entrada | Exemplos de Saída |
-|---------------------|-------------------|
+|---------------------|:-----------------:|
 |                     |      I=1 J=60     |
 |                     |      I=4 J=55     |
 |                     |      I=7 J=50     |
