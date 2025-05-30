@@ -59,3 +59,4 @@
 * [1096 - Sequencia IJ2](1096-SequenciaIJ2)
 * [1097 - SequenciaIJ3](1097-SequenciaIJ3)
 * [1098 - SequenciaIJ4](1098-SequenciaIJ4)
+* [1099 - Soma de Ímpares Consecutivos II](1099-SomaDeÍmparesConsecutivosII)
