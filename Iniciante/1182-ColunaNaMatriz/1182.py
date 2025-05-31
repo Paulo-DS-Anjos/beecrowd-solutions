@@ -7,11 +7,9 @@ for linha in range(12):
     for coluna in range(12):
         MATRIZ[linha][coluna] = float(input())
 X = 0
+for linha in range(12):
+    X += MATRIZ[linha][C]
 if T == "S":
-    for linha in range(12):
-        X += MATRIZ[linha][C]
     print(f"{X:.1f}")
 else:
-    for linha in range(12):
-        X += MATRIZ[linha][C]
     print(f"{(X/12):.1f}")
