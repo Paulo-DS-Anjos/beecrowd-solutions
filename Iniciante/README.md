@@ -60,3 +60,7 @@
 * [1097 - SequenciaIJ3](1097-SequenciaIJ3)
 * [1098 - SequenciaIJ4](1098-SequenciaIJ4)
 * [1099 - Soma de Ímpares Consecutivos II](1099-SomaDeÍmparesConsecutivosII)
+* [1176 - Fibonacci em Vetor](1176-FibonacciEmVetor)
+* [1177 - Preenchimento de Vetor II](1177-PreenchimentoDeVetorIII)
+* [1178 - Preenchimento de Vetor III](1179-PreenchimentoDeVetorIV)
+* [1179 - Preenchimento de Vetor IV](1179-PreenchimentoDeVetorIV)
