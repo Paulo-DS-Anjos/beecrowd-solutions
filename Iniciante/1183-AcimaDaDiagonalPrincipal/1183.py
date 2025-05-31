@@ -9,10 +9,10 @@ for linha in range(12):
 soma = 0.0
 contador = 0
 
-for i in range(12):
-    for j in range(12):
-        if i < j:
-            soma += MATRIZ[i][j]
+for linha in range(12):
+    for coluna in range(12):
+        if linha < coluna:
+            soma += MATRIZ[i][coluna]
             contador += 1
 
 if O == 'S':
