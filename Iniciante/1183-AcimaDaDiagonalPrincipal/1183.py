@@ -12,7 +12,7 @@ contador = 0
 for linha in range(12):
     for coluna in range(12):
         if linha < coluna:
-            soma += MATRIZ[i][coluna]
+            soma += MATRIZ[linha][coluna]
             contador += 1
 
 if O == 'S':
