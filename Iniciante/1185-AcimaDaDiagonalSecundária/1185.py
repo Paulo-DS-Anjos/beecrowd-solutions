@@ -1,0 +1,16 @@
+OPERACAO = input().strip()
+MATRIZ = [[0.0 for _ in range(12)] for _ in range(12)]
+for LINHA in range(12):
+    for COLUNA in range(12):
+        MATRIZ[LINHA][COLUNA] = float(input())
+
+SOMA = 0.0
+for LINHA in range(12):
+    for COLUNA in range(12):
+        if LINHA + COLUNA < 11:
+            SOMA += MATRIZ[LINHA][COLUNA]
+
+if OPERACAO == "S":
+    print(f"{SOMA:.1f}")
+else:
+    print(f"{SOMA / 66:.1f}")
